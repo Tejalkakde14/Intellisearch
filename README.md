@@ -1,4 +1,4 @@
-# 🧠 DocMind — Node.js AI RAG Document Analyzer
+#  Intellisearch — Node.js AI RAG Document Analyzer
 
 Intellisearch is a full-stack AI-powered RAG (Retrieval-Augmented Generation) application built using:
 
@@ -76,9 +76,9 @@ Automatically generates smart questions from uploaded content.
 # 📁 Project Structure
 
 ```bash
-docmind/
+Intellisearch/
 │
-├── backend/
+├── testtejal/
 │   │
 │   ├── agents/
 │   │   ├── documentAgent.js
@@ -113,7 +113,7 @@ docmind/
 # 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/docmind.git
+git clone https://github.com/Tejalkakde14/IntelliSearch.git
 
 cd intellisearch
 ```
